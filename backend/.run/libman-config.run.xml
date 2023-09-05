@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="libman-config" type="Application" factoryName="Application">
+    <envs>
+      <env name="mysql-username" value="" />
+      <env name="mysql-password" value="" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.example.libman.LibmanApplication" />
+    <module name="libman" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
